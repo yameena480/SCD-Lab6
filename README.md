@@ -1,5 +1,9 @@
 # CSE325 – Lab 06: Design, Coding, Testing, Reuse & Quality
 
+**Name:** Yameena Murtaza
+**Registration No:** SP24-BSE-029
+
+
 **Scenario:** A university fee system generates invoices in text and JSON without duplicating fee-calculation logic.
 **CLOs:** CLO-2, CLO-5, CLO-6
 
