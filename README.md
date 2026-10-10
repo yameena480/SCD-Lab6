@@ -64,3 +64,16 @@ git add tests pytest.ini README.md && git commit -m "test: cover business rules;
 
 ## Independent extension (example)
 *Requirement:* add a late-fee rule (PKR 50/day) as an extra `LineItem`. Only `calculator.py` changes (new helper `late_fee_item(days)`); add a test, commit separately.
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 162059" src="https://github.com/user-attachments/assets/a513c549-d4b6-41c0-b1ce-f6bfcd53dbcb" />
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 162145" src="https://github.com/user-attachments/assets/adb31eaa-6995-438a-b358-2a28de5697b2" />
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 162213" src="https://github.com/user-attachments/assets/6ea5b6dd-36fe-4819-9f22-016cf805ff44" />
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 162248" src="https://github.com/user-attachments/assets/b2c756f3-15c9-41cc-b9ba-a7bd9d31452c" />
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 162356" src="https://github.com/user-attachments/assets/5e16e56b-f825-44e8-9103-11d2249c6e00" />
+
+<img width="1366" height="721" alt="Screenshot 2026-10-10 181740" src="https://github.com/user-attachments/assets/e99248ec-0422-4dec-b95e-f9b08f824bb1" />
+
